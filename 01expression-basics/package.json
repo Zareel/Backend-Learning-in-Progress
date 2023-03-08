@@ -1,0 +1,19 @@
+{
+  "name": "socialmedia",
+  "version": "2.0.0",
+  "description": "learning expression",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "zareel",
+    "kalam"
+  ],
+  "author": "zareel kalam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
